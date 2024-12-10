@@ -1,0 +1,1752 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "runtime": "2h 22m",
+        "content_rating": "R",
+        "imdb_rating": 9.3
+    },
+    {
+        "title": "The Godfather",
+        "year": 1972,
+        "runtime": "2h 55m",
+        "content_rating": "R",
+        "imdb_rating": 9.2
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "runtime": "2h 32m",
+        "content_rating": "PG-13",
+        "imdb_rating": 9.0
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": 1974,
+        "runtime": "3h 22m",
+        "content_rating": "R",
+        "imdb_rating": 9.0
+    },
+    {
+        "title": "12 Angry Men",
+        "year": 1957,
+        "runtime": "1h 36m",
+        "content_rating": "Approved",
+        "imdb_rating": 9.0
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "runtime": "3h 21m",
+        "content_rating": "PG-13",
+        "imdb_rating": 9.0
+    },
+    {
+        "title": "Schindler's List",
+        "year": 1993,
+        "runtime": "3h 15m",
+        "content_rating": "R",
+        "imdb_rating": 9.0
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "runtime": "2h 34m",
+        "content_rating": "R",
+        "imdb_rating": 8.9
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "runtime": "2h 58m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.9
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "runtime": "2h 58m",
+        "content_rating": "R",
+        "imdb_rating": 8.8
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "runtime": "2h 22m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.8
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "runtime": "2h 59m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.8
+    },
+    {
+        "title": "Fight Club",
+        "year": 1999,
+        "runtime": "2h 19m",
+        "content_rating": "R",
+        "imdb_rating": 8.8
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "runtime": "2h 28m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.8
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "runtime": "2h 4m",
+        "content_rating": "PG",
+        "imdb_rating": 8.7
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "runtime": "2h 16m",
+        "content_rating": "R",
+        "imdb_rating": 8.7
+    },
+    {
+        "title": "Goodfellas",
+        "year": 1990,
+        "runtime": "2h 25m",
+        "content_rating": "R",
+        "imdb_rating": 8.7
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "runtime": "2h 13m",
+        "content_rating": "R",
+        "imdb_rating": 8.7
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "runtime": "2h 49m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.7
+    },
+    {
+        "title": "Se7en",
+        "year": 1995,
+        "runtime": "2h 7m",
+        "content_rating": "R",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "runtime": "2h 10m",
+        "content_rating": "PG",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "Seven Samurai",
+        "year": 1954,
+        "runtime": "3h 27m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "runtime": "1h 58m",
+        "content_rating": "R",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "runtime": "2h 49m",
+        "content_rating": "R",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "City of God",
+        "year": 2002,
+        "runtime": "2h 10m",
+        "content_rating": "R",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "The Green Mile",
+        "year": 1999,
+        "runtime": "3h 9m",
+        "content_rating": "R",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": 1997,
+        "runtime": "1h 56m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "runtime": "2h 17m",
+        "content_rating": "R",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "runtime": "2h 1m",
+        "content_rating": "PG",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "Back to the Future",
+        "year": 1985,
+        "runtime": "1h 56m",
+        "content_rating": "PG",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Spirited Away",
+        "year": 2001,
+        "runtime": "2h 4m",
+        "content_rating": "PG",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "The Pianist",
+        "year": 2002,
+        "runtime": "2h 30m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Parasite",
+        "year": 2019,
+        "runtime": "2h 12m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "runtime": "2h 35m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Psycho",
+        "year": 1960,
+        "runtime": "1h 49m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "The Lion King",
+        "year": 1994,
+        "runtime": "1h 28m",
+        "content_rating": "G",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "The Departed",
+        "year": 2006,
+        "runtime": "2h 31m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": 1988,
+        "runtime": "1h 28m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Whiplash",
+        "year": 2014,
+        "runtime": "1h 46m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": 2023,
+        "runtime": "2h 20m",
+        "content_rating": "PG",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "American History X",
+        "year": 1998,
+        "runtime": "1h 59m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "The Prestige",
+        "year": 2006,
+        "runtime": "2h 10m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Léon: The Professional",
+        "year": 1994,
+        "runtime": "1h 50m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Harakiri",
+        "year": 1962,
+        "runtime": "2h 13m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.6
+    },
+    {
+        "title": "Casablanca",
+        "year": 1942,
+        "runtime": "1h 42m",
+        "content_rating": "PG",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "runtime": "1h 46m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "The Intouchables",
+        "year": 2011,
+        "runtime": "1h 52m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": 1988,
+        "runtime": "2h 54m",
+        "content_rating": "PG",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": 2024,
+        "runtime": "2h 46m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Modern Times",
+        "year": 1936,
+        "runtime": "1h 27m",
+        "content_rating": "G",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Alien",
+        "year": 1979,
+        "runtime": "1h 57m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Rear Window",
+        "year": 1954,
+        "runtime": "1h 52m",
+        "content_rating": "PG",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": 1968,
+        "runtime": "2h 46m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "runtime": "2h 45m",
+        "content_rating": "R",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "City Lights",
+        "year": 1931,
+        "runtime": "1h 27m",
+        "content_rating": "G",
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "runtime": "2h 27m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Memento",
+        "year": 2000,
+        "runtime": "1h 53m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "WALL·E",
+        "year": 2008,
+        "runtime": "1h 38m",
+        "content_rating": "G",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "year": 1981,
+        "runtime": "1h 55m",
+        "content_rating": "PG",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "The Lives of Others",
+        "year": 2006,
+        "runtime": "2h 17m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "12th Fail",
+        "year": 2023,
+        "runtime": "2h 27m",
+        "content_rating": null,
+        "imdb_rating": 8.8
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "runtime": "2h 29m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": 1950,
+        "runtime": "1h 50m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "runtime": "1h 57m",
+        "content_rating": "PG",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Paths of Glory",
+        "year": 1957,
+        "runtime": "1h 28m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": 1957,
+        "runtime": "1h 56m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "The Shining",
+        "year": 1980,
+        "runtime": "2h 26m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "The Great Dictator",
+        "year": 1940,
+        "runtime": "2h 5m",
+        "content_rating": "G",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Aliens",
+        "year": 1986,
+        "runtime": "2h 17m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "runtime": "2h 33m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "runtime": "2h 44m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Coco",
+        "year": 2017,
+        "runtime": "1h 45m",
+        "content_rating": "PG",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Amadeus",
+        "year": 1984,
+        "runtime": "2h 40m",
+        "content_rating": "PG",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Toy Story",
+        "year": 1995,
+        "runtime": "1h 21m",
+        "content_rating": "G",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": 1964,
+        "runtime": "1h 35m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Oldboy",
+        "year": 2003,
+        "runtime": "2h",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "American Beauty",
+        "year": 1999,
+        "runtime": "2h 2m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "runtime": "3h 1m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "runtime": "2h 6m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Das Boot",
+        "year": 1981,
+        "runtime": "2h 29m",
+        "content_rating": null,
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Braveheart",
+        "year": 1995,
+        "runtime": "2h 58m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": 1997,
+        "runtime": "2h 13m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Your Name.",
+        "year": 2016,
+        "runtime": "1h 46m",
+        "content_rating": null,
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "High and Low",
+        "year": 1963,
+        "runtime": "2h 23m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "runtime": "2h 2m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "3 Idiots",
+        "year": 2009,
+        "runtime": "2h 50m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": 1984,
+        "runtime": "3h 49m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": 1952,
+        "runtime": "1h 43m",
+        "content_rating": "G",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Capernaum",
+        "year": 2018,
+        "runtime": "2h 6m",
+        "content_rating": "R",
+        "imdb_rating": 8.4
+    },
+    {
+        "title": "Come and See",
+        "year": 1985,
+        "runtime": "2h 22m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "runtime": "1h 42m",
+        "content_rating": "NC-17",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "runtime": "1h 43m",
+        "content_rating": "G",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": 1983,
+        "runtime": "2h 11m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "The Hunt",
+        "year": 2012,
+        "runtime": "1h 55m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "runtime": "1h 48m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Ikiru",
+        "year": 1952,
+        "runtime": "2h 23m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "runtime": "2h 29m",
+        "content_rating": "G",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "runtime": "1h 39m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": 1962,
+        "runtime": "3h 47m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "The Apartment",
+        "year": 1960,
+        "runtime": "2h 5m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Incendies",
+        "year": 2010,
+        "runtime": "2h 11m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Scarface",
+        "year": 1983,
+        "runtime": "2h 50m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "North by Northwest",
+        "year": 1959,
+        "runtime": "2h 16m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Double Indemnity",
+        "year": 1944,
+        "runtime": "1h 47m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Citizen Kane",
+        "year": 1941,
+        "runtime": "1h 59m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "M",
+        "year": 1931,
+        "runtime": "1h 39m",
+        "content_rating": "Passed",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Heat",
+        "year": 1995,
+        "runtime": "2h 50m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Vertigo",
+        "year": 1958,
+        "runtime": "2h 8m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": 1987,
+        "runtime": "1h 56m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Up",
+        "year": 2009,
+        "runtime": "1h 36m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Oppenheimer",
+        "year": 2023,
+        "runtime": "3h",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Amélie",
+        "year": 2001,
+        "runtime": "2h 2m",
+        "content_rating": "R",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": 1971,
+        "runtime": "2h 16m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": 1962,
+        "runtime": "2h 9m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "A Separation",
+        "year": 2011,
+        "runtime": "2h 3m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "The Sting",
+        "year": 1973,
+        "runtime": "2h 9m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Die Hard",
+        "year": 1988,
+        "runtime": "2h 12m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Like Stars on Earth",
+        "year": 2007,
+        "runtime": "2h 42m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "runtime": "2h 7m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Metropolis",
+        "year": 1927,
+        "runtime": "2h 33m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Snatch",
+        "year": 2000,
+        "runtime": "1h 42m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "1917",
+        "year": 2019,
+        "runtime": "1h 59m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": 1997,
+        "runtime": "2h 18m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": 1948,
+        "runtime": "1h 29m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Downfall",
+        "year": 2004,
+        "runtime": "2h 36m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Taxi Driver",
+        "year": 1976,
+        "runtime": "1h 54m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Hamilton",
+        "year": 2020,
+        "runtime": "2h 40m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Dangal",
+        "year": 2016,
+        "runtime": "2h 41m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "runtime": "3h",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Batman Begins",
+        "year": 2005,
+        "runtime": "2h 20m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": 1965,
+        "runtime": "2h 12m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Green Book",
+        "year": 2018,
+        "runtime": "2h 10m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": 1959,
+        "runtime": "2h 1m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Truman Show",
+        "year": 1998,
+        "runtime": "1h 43m",
+        "content_rating": "PG",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": 1961,
+        "runtime": "2h 59m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "The Kid",
+        "year": 1921,
+        "runtime": "1h 8m",
+        "content_rating": "Passed",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Father",
+        "year": 2020,
+        "runtime": "1h 37m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Shutter Island",
+        "year": 2010,
+        "runtime": "2h 18m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "All About Eve",
+        "year": 1950,
+        "runtime": "2h 18m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": 2007,
+        "runtime": "2h 38m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "runtime": "2h 7m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Casino",
+        "year": 1995,
+        "runtime": "2h 58m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "runtime": "2h 10m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "runtime": "1h 47m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Ran",
+        "year": 1985,
+        "runtime": "2h 40m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": 2006,
+        "runtime": "1h 58m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "runtime": "2h 2m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Unforgiven",
+        "year": 1992,
+        "runtime": "2h 10m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Thing",
+        "year": 1982,
+        "runtime": "1h 49m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "runtime": "2h 15m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "runtime": "1h 51m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": 1948,
+        "runtime": "2h 6m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Yojimbo",
+        "year": 1961,
+        "runtime": "1h 50m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Wild Robot",
+        "year": 2024,
+        "runtime": "1h 42m",
+        "content_rating": "PG",
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "Prisoners",
+        "year": 2013,
+        "runtime": "2h 33m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Finding Nemo",
+        "year": 2003,
+        "runtime": "1h 40m",
+        "content_rating": "G",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Great Escape",
+        "year": 1963,
+        "runtime": "2h 52m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": 1975,
+        "runtime": "1h 31m",
+        "content_rating": "PG",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": 2004,
+        "runtime": "1h 59m",
+        "content_rating": "PG",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Elephant Man",
+        "year": 1980,
+        "runtime": "2h 4m",
+        "content_rating": "PG",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Rashomon",
+        "year": 1950,
+        "runtime": "1h 28m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": 1954,
+        "runtime": "1h 45m",
+        "content_rating": "PG",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": 1939,
+        "runtime": "3h 58m",
+        "content_rating": "G",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Chinatown",
+        "year": 1974,
+        "runtime": "2h 10m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "year": 2009,
+        "runtime": "2h 9m",
+        "content_rating": "R",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": 1998,
+        "runtime": "1h 47m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Inside Out",
+        "year": 2015,
+        "runtime": "1h 35m",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "V for Vendetta",
+        "year": 2005,
+        "runtime": "2h 12m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
+        "year": 2021,
+        "runtime": "1h 27m",
+        "content_rating": null,
+        "imdb_rating": 8.8
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "runtime": "1h 55m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Raging Bull",
+        "year": 1980,
+        "runtime": "2h 9m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Klaus",
+        "year": 2019,
+        "runtime": "1h 36m",
+        "content_rating": "PG",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "runtime": "2h 41m",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Trainspotting",
+        "year": 1996,
+        "runtime": "1h 33m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "runtime": "2h 21m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Fargo",
+        "year": 1996,
+        "runtime": "1h 38m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Warrior",
+        "year": 2011,
+        "runtime": "2h 20m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "runtime": "2h 28m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Gran Torino",
+        "year": 2008,
+        "runtime": "1h 56m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "runtime": "2h 10m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": 2004,
+        "runtime": "2h 12m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": 1988,
+        "runtime": "1h 26m",
+        "content_rating": "G",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "runtime": "2h",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Ben-Hur",
+        "year": 1959,
+        "runtime": "3h 32m",
+        "content_rating": "G",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Children of Heaven",
+        "year": 1997,
+        "runtime": "1h 29m",
+        "content_rating": "PG",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": 1975,
+        "runtime": "3h 5m",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "runtime": "2h 14m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Blade Runner",
+        "year": 1982,
+        "runtime": "1h 57m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Before Sunrise",
+        "year": 1995,
+        "runtime": "1h 41m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "runtime": "1h 39m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": 2016,
+        "runtime": "2h 19m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": 1989,
+        "runtime": "2h 8m",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Gone Girl",
+        "year": 2014,
+        "runtime": "2h 29m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Memories of Murder",
+        "year": 2003,
+        "runtime": "2h 12m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Maharaja",
+        "year": 2024,
+        "runtime": "2h 21m",
+        "content_rating": null,
+        "imdb_rating": 8.5
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": 1993,
+        "runtime": "2h 13m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Gold Rush",
+        "year": 1925,
+        "runtime": "1h 35m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "runtime": "1h 32m",
+        "content_rating": "G",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Wild Tales",
+        "year": 2014,
+        "runtime": "2h 2m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Ratatouille",
+        "year": 2007,
+        "runtime": "1h 51m",
+        "content_rating": "G",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "runtime": "1h 38m",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": 1978,
+        "runtime": "3h 3m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Jaws",
+        "year": 1975,
+        "runtime": "2h 4m",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The General",
+        "year": 1926,
+        "runtime": "1h 18m",
+        "content_rating": "Passed",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": 1924,
+        "runtime": "45m",
+        "content_rating": "Passed",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "Mary and Max",
+        "year": 2009,
+        "runtime": "1h 32m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "On the Waterfront",
+        "year": 1954,
+        "runtime": "1h 48m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": 1953,
+        "runtime": "2h 36m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "runtime": "2h 32m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": 1939,
+        "runtime": "2h 9m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": 1957,
+        "runtime": "1h 32m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Third Man",
+        "year": 1949,
+        "runtime": "1h 33m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Logan",
+        "year": 2017,
+        "runtime": "2h 17m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Rocky",
+        "year": 1976,
+        "runtime": "2h",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Tokyo Story",
+        "year": 1953,
+        "runtime": "2h 17m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "runtime": "1h 57m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": 1957,
+        "runtime": "1h 36m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Spotlight",
+        "year": 2015,
+        "runtime": "2h 9m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Room",
+        "year": 2015,
+        "runtime": "1h 58m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Terminator",
+        "year": 1984,
+        "runtime": "1h 47m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": 2004,
+        "runtime": "2h 1m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Platoon",
+        "year": 1986,
+        "runtime": "2h",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "runtime": "2h 23m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "La haine",
+        "year": 1995,
+        "runtime": "1h 38m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Before Sunset",
+        "year": 2004,
+        "runtime": "1h 20m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Jai Bhim",
+        "year": 2021,
+        "runtime": "2h 44m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.7
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": 1946,
+        "runtime": "2h 50m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": 1928,
+        "runtime": "1h 54m",
+        "content_rating": "Passed",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Exorcist",
+        "year": 1973,
+        "runtime": "2h 2m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": 1939,
+        "runtime": "1h 42m",
+        "content_rating": "G",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Incredibles",
+        "year": 2004,
+        "runtime": "1h 55m",
+        "content_rating": "PG",
+        "imdb_rating": 8.0
+    },
+    {
+        "title": "Rush",
+        "year": 2013,
+        "runtime": "2h 3m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Network",
+        "year": 1976,
+        "runtime": "2h 1m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Stand by Me",
+        "year": 1986,
+        "runtime": "1h 29m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": 2009,
+        "runtime": "1h 33m",
+        "content_rating": "G",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Sound of Music",
+        "year": 1965,
+        "runtime": "2h 52m",
+        "content_rating": "G",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "A Man Escaped",
+        "year": 1956,
+        "runtime": "1h 41m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "My Father and My Son",
+        "year": 2005,
+        "runtime": "1h 52m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.2
+    },
+    {
+        "title": "The Handmaiden",
+        "year": 2016,
+        "runtime": "2h 25m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": 1942,
+        "runtime": "1h 39m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Into the Wild",
+        "year": 2007,
+        "runtime": "2h 28m",
+        "content_rating": "R",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": 1966,
+        "runtime": "2h 1m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Iron Giant",
+        "year": 1999,
+        "runtime": "1h 26m",
+        "content_rating": "PG",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": 1940,
+        "runtime": "2h 9m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Groundhog Day",
+        "year": 1993,
+        "runtime": "1h 41m",
+        "content_rating": "PG",
+        "imdb_rating": 8.0
+    },
+    {
+        "title": "Amores Perros",
+        "year": 2000,
+        "runtime": "2h 34m",
+        "content_rating": "R",
+        "imdb_rating": 8.0
+    },
+    {
+        "title": "Rebecca",
+        "year": 1940,
+        "runtime": "2h 10m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "The Help",
+        "year": 2011,
+        "runtime": "2h 26m",
+        "content_rating": "PG-13",
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Cool Hand Luke",
+        "year": 1967,
+        "runtime": "2h 7m",
+        "content_rating": "Approved",
+        "imdb_rating": 8.0
+    },
+    {
+        "title": "A Silent Voice: The Movie",
+        "year": 2016,
+        "runtime": "2h 10m",
+        "content_rating": "Not Rated",
+        "imdb_rating": 8.1
+    }
+]
