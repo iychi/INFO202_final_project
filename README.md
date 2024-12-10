@@ -1,16 +1,16 @@
 # INFO202_final_project
 
-# IMDB Top 250 Movie Recommendation System
+## IMDB Top 250 Movie Recommendation System
 
-## Overview
+### Overview
 This project provides a web-based movie recommendation system based on the IMDB Top 250 dataset. Users can select a movie from a dropdown menu to receive tailored recommendations and explore data visualizations.
 
-## How to Use
+### How to Use
 1. Open `index.html` in a web browser.
 2. Explore the visualizations on the main page.
 3. Use the dropdown menu to select a movie and view similar movie recommendations.
 
-## File Structure
+### File Structure
 - `index.html`: Main webpage.
 - `script.js`: JavaScript for recommendation logic and interactivity.
 - `style.css`: Stylesheet for layout and design.
